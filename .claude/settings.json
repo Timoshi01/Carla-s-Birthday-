@@ -1,0 +1,10 @@
+
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "model": "Pakingkingers-AI",
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:20128",
+    "ANTHROPIC_AUTH_TOKEN": "sk-ac61a37b07edb1f5-52c270-aaaf44e3",
+    "ANTHROPIC_MODEL": "Pakingkingers-AI"
+  }
+}
